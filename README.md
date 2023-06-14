@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="left">Computer science student, python backend developer</h3>
 
-<h2>Technology stack</h2>
+<h2>Stack</h2>
 
 <h3>Backend</h3>
 
